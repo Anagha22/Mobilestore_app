@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42b71f27-68af-4772-8f86-9cdbc84d3ad4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/conda_packages.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/diff.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/packages.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/myapp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/myapp/spec/features/user_visits_homepage_spec.rb" />
+      <change type="DELETED" beforePath="$USER_HOME$/AUTHORS.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/INSTALL.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/helper.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/templatetags/achievements_extras.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/achievement/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/alerts/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/alerts/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/alerts/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/alerts/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/alerts/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/conffiles/local-settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/document/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/document/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/document/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/document/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/document/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/event/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/event/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/event/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/event/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/event/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/activate" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/activate.csh" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/activate.fish" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/activate_this.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/django-admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/easy_install" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/easy_install-2.7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pilconvert.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pildriver.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pilfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pilfont.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pilprint.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pip" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/pip-2.7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/bin/python" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/include/python2.7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/local/bin" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/local/include" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/foss/local/lib" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/helper.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/fossWebsite/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/images/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/css/bootstrapValidator.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/css/js-image-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/-g5pDUSRgvxvOl5u-a_WHw.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/RFda8w1V0eDZheqfcyQ4EHhCUOGz7vYGh680lGh-uXM.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/RFda8w1V0eDZheqfcyQ4EOgdm0LZdjqr5-oayXSOefg.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/So5lHxHT37p2SS4-t60SlHpumDtkw9GHrrDfd7ZnWpU.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/ZvcMqxEwPfh2qDWBPxn6nnl4twXkwp3_u9ZoePkT564.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/fonts/pEobIV_lL25TKBpqVI_a2w.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/amrita_university.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/amritapuri 1 .jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/foss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/fosslogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/caption1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/caption2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/caption3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/caption4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/image-slider-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/image-slider-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/image-slider-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/image-slider-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/image-slider-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/slider-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/slider-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/slider-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/slider-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/thumb-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/thumb-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/thumb-3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/home/thumb-4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/images/vignette.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/bootstrapValidator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/jquery-2.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/js-image-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/media/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/project/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/project/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/project/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/project/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/project/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/helper.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/models.py.save" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/templatetags/register_extras.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/register/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/achievement_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/article_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/article_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/contest_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/contest_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/contrib_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/contrib_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/gsoc_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/gsoc_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/icpc_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/icpc_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/intern_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/intern_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_article.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_contribution.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_gsoc.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_icpc.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_intern.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/new_speaker.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/noview.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/speaker_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/speaker_viewall.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/update_article.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/update_contrib.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/achievement/update_intern.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/contact_success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/image_slider.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/images/success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/images/upload_images.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/keyerror.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/change_password.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/logged_in.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/logout.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/mypages.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/newregister.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/pass_success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/register_success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/success.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/update_profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/register/update_profile_pic.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/search_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/atom.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/atom2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/base2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/navbar_fixed_top.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/templates/static/navbar_fixed_top2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/README.md" afterPath="$USER_HOME$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobileStore/settings.py" afterPath="$PROJECT_DIR$/mobileStore/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobileStore/urls.py" afterPath="$PROJECT_DIR$/mobileStore/urls.py" />
+    </list>
+    <ignored path="mobileStore.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mobileStore" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile_list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/mobile_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mobile/templates/mobile/base.html" />
+        <option value="$PROJECT_DIR$/mobile/templates/mobile/mobile_list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="44" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/myapp" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b71f27-68af-4772-8f86-9cdbc84d3ad4" name="Default" comment="" />
+      <created>1469018196636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469018196636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="44" width="1281" height="704" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobile/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/templates/mobile/mobile_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
